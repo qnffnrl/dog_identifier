@@ -1,0 +1,11 @@
+#for big datasets
+ImageSizeUnificated/
+grayImages/
+rowImages/
+testArgumentedImages/
+testData/
+trainData/
+trainArgumentedImages/
+
+#for jupyter notebook
+.ipynb_checkpoints/
