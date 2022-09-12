@@ -6,6 +6,7 @@ testArgumentedImages/
 testData/
 trainData/
 trainArgumentedImages/
+realData/
 
 #for jupyter notebook
 .ipynb_checkpoints/
