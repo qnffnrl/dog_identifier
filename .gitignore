@@ -7,6 +7,8 @@ testData/
 trainData/
 trainArgumentedImages/
 realData/
+grayImages256/
+ImageSizeUnificated256/
 
 #for jupyter notebook
 .ipynb_checkpoints/
