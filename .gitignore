@@ -9,6 +9,7 @@ trainArgumentedImages/
 realData/
 grayImages256/
 ImageSizeUnificated256/
+best-cnn-model.h5
 
 #for jupyter notebook
 .ipynb_checkpoints/
