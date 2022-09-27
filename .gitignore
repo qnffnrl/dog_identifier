@@ -13,7 +13,8 @@ best-cnn-model.h5
 label.csv
 model.png
 rawData/
-rawDogImage(data_label).7z
+ImageSizeUnificated600/
+grayImages600/
 
 #for jupyter notebook
 .ipynb_checkpoints/
